@@ -40,7 +40,7 @@ final laguDaerahList = [
     ibuKota: 'Banjarmasin',
     photo:
         'https://asset.kompas.com/crops/l9nQmhff11jVd79wBP8AWeRPLgI=/16x0:1039x682/750x500/data/photo/2023/02/19/63f1ba31b332a.png',
-    laguDaerah: 'Ampar-Ampar Pisang',
+    laguDaerah: 'Ampar-Ampar Pisang AMBON',
     lirikLaguDaerah: '''
 AMPAR ampar pisang
 Pisangku balum masak
